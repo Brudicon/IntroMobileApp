@@ -1,0 +1,15 @@
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\bin\Debug\netstandard2.0\Counter.deps.json
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\bin\Debug\netstandard2.0\Counter.dll
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\bin\Debug\netstandard2.0\ref\Counter.dll
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\bin\Debug\netstandard2.0\Counter.pdb
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.csproj.AssemblyReference.cache
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.AssemblyInfoInputs.cache
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.AssemblyInfo.cs
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.csproj.CoreCompileInputs.cache
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\XamlC.stamp
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.dll
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\ref\Counter.dll
+G:\MobileDevelopment\Intro\Counter\Counter\Counter\obj\Debug\netstandard2.0\Counter.pdb
